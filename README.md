@@ -1,6 +1,6 @@
-# Louvain
+# Louvain Algorithm
 A Clone of the original louvain algorithm implementation
-Please find the original source at <sourceforge.net/projects/louvain>
+Please find the original source at <https://sourceforge.net/projects/louvain>
 
 -----------------------------------------------------------------------------
 
