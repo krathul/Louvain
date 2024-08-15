@@ -1,7 +1,3 @@
-# Louvain
-A Clone of the original louvain algorithm implementation
-Please find the original source at sourceforge.net/projects/louvain/
-
 -----------------------------------------------------------------------------
 
 Multi-criteria community detection
@@ -118,4 +114,3 @@ regenerate all the binary files.
 
 Version 0.1 and 0.2:
 - initial community detection algorithm
-
